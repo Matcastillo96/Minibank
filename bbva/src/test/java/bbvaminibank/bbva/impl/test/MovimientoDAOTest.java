@@ -18,7 +18,6 @@ import minibank.bbva.model.dao.MovementsDAO;
 import minibank.bbva.model.entitys.Extraction;
 
 /**
- * TEST para DAO de Movimiento
  * 
  * @author Matias Castillo
  *

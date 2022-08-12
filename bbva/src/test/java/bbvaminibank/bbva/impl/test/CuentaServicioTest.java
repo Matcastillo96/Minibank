@@ -15,7 +15,6 @@ import minibank.bbva.model.entitys.Account;
 import minibank.bbva.service.AccountService;
 
 /**
- * TEST de Agregar Cotitular en una Cuenta
  * 
  * @author Matias Castillo
  *

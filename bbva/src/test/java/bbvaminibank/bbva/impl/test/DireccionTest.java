@@ -16,7 +16,6 @@ import org.junit.jupiter.api.Test;
 import minibank.bbva.model.entitys.Address;
 
 /**
- * TEST de Constructor y Validacion de atributos de Direccion de Cliente
  * 
  * @author Matias Castillo
  *

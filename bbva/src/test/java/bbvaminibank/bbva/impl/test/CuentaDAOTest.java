@@ -28,7 +28,6 @@ import minibank.bbva.model.entitys.Client;
 import minibank.bbva.model.entitys.ForeignAccount;
 
 /**
- * TEST para DAO de Cuenta
  * 
  * @author Matias Castillo
  *

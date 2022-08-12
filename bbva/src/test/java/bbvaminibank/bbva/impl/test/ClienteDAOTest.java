@@ -21,7 +21,6 @@ import minibank.bbva.model.entitys.Address;
 import minibank.bbva.model.entitys.Client;
 
 /**
- * TEST para DAO de Cliente
  * 
  * @author Matias Castillo
  *

@@ -20,7 +20,6 @@ import minibank.bbva.model.entitys.Address;
 import minibank.bbva.model.entitys.Client;
 
 /**
- * TEST de Constructores, Metodos, Validaciones de atributos de clientes
  * 
  * @author Matias Castillo
  *

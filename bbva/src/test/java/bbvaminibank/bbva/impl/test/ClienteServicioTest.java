@@ -17,7 +17,6 @@ import minibank.bbva.model.entitys.Client;
 import minibank.bbva.service.ServiceClient;
 
 /**
- * TEST para Alta de Cliente y Cambio de Direccion
  * 
  * @author Matias Castillo
  *

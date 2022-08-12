@@ -16,7 +16,6 @@ import minibank.bbva.model.dao.AccountDAO;
 import minibank.bbva.service.MovementService;
 
 /**
- * TEST para las operaciones de Transferir y Vender
  * 
  * @author Matias castillo
  *

@@ -28,7 +28,6 @@ import minibank.bbva.model.entitys.TransferCredit;
 import minibank.bbva.model.entitys.TransferDebit;
 
 /**
- * TEST de Constructor, Metodos y Validacion de atributos
  * 
  * @author Matias Castillo
  */
